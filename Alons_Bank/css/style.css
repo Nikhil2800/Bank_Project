@@ -1,0 +1,43 @@
+#eight{
+    
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../images/apply-bg.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+#ready{
+    
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../images/get_started.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+#form{
+    background: rgb(215, 242, 253);
+}
+
+#footer{
+    background: #da8f05;
+}
+
+@media only screen and (max-width:576px){
+    #a,#a1,#a2,#a3{
+ 
+        font-size: 20px;
+    }
+
+    #img1,#img2{
+        height: 80vh;
+    }
+    #Nik,#Nik1{
+        margin: 0px 0px 130px 0px;
+    }
+    
+}
+
+
+@media only screen and (min-width:992px){
+    #Nik,#Nik1{
+        margin: 0px 0px 120px 0px;
+    }
+}
