@@ -20,4 +20,6 @@ Project Screens :
 ![bank7](https://github.com/Nikhil2800/Bank_Project/assets/154686273/0a9fbfe1-882f-4834-9b09-04c1e9b9ff72)
 ![bank8](https://github.com/Nikhil2800/Bank_Project/assets/154686273/aa8d1326-00d9-48d3-b80f-896846cbba4a)
 ![bank9](https://github.com/Nikhil2800/Bank_Project/assets/154686273/56918c68-96fb-4b80-821f-03bd91fdaa48)
+![bank10](https://github.com/Nikhil2800/Bank_Project/assets/154686273/3ebef8e1-581a-4987-ae34-357b443405b2)
+
 
